@@ -13,8 +13,8 @@
   <img src="https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/JAVA-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/JAVA-FF6B00?style=for-the-badge" />
-  <img src="https://skillicons.dev/icons?i=java" />
-  <img src="https://skillicons.dev/icons?i=java,python" />
+  
+
   <img src="https://img.shields.io/badge/JAVA-FF6B00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://skillicons.dev/icons?i=java&theme=dark" />
@@ -40,17 +40,17 @@
 <table>
 <tr>
 <td align="center">
-https://skillicons.dev/icons?i=java<br>
+<img src="https://skillicons.dev/icons?i=java" /><br>
 Java
 </td>
 
 <td align="center">
-https://skillicons.dev/icons?i=python<br>
+<img src="https://skillicons.dev/icons?i=python" /><br>
 Python
 </td>
 
 <td align="center">
-https://skillicons.dev/icons?i=js<br>
+  <img src="https://skillicons.dev/icons?i=js" /><br>
 JavaScript
 </td>
 </tr>
