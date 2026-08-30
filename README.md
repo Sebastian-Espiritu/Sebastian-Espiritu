@@ -36,4 +36,24 @@
   🐙 GitHub
 </p>
 
+---
+<table>
+<tr>
+<td align="center">
+https://skillicons.dev/icons?i=java<br>
+Java
+</td>
+
+<td align="center">
+https://skillicons.dev/icons?i=python<br>
+Python
+</td>
+
+<td align="center">
+https://skillicons.dev/icons?i=js<br>
+JavaScript
+</td>
+</tr>
+</table>
+
 ⭐
