@@ -50,7 +50,7 @@
 </p>
 
 ---
-<table border="0">
+<!--<table border="0">
 <tr>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=java" /><br>
@@ -67,6 +67,6 @@ Python
 <b>⚡ JavaScript</b>
 </td>
 </tr>
-</table>
+</table>-->
 
 ⭐
