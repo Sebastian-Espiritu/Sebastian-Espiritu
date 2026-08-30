@@ -17,6 +17,7 @@
   <img src="https://skillicons.dev/icons?i=java,python" />
   <img src="https://img.shields.io/badge/JAVA-FF6B00?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=java&theme=dark" />
   <!--<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />-->
 </p>
 
