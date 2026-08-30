@@ -1,11 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:7B2FF7,100:FF00FF&height=180&section=header&text=Sebasti%C3%A1n&fontColor=ffffff" />
+<!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:7B2FF7,100:FF00FF&height=180&section=header&text=Sebasti%C3%A1n&fontColor=ffffff" />-->
 <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=ApplicationCryptoByte;Bob+AI;Java+%7C+Python+%7C+Flask" />
 
 <h1 align="center">👋 Hola, soy Sebastián Espíritu</h1>
 
 <h3>🎓 Estudiante de Ingeniería de Software</h3>
-
----
 
 <!--### Bob
 <p>
