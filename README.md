@@ -11,6 +11,7 @@
 ### Bob
 <p>
   <img src="https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge" />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/JAVA-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/JAVA-FF6B00?style=for-the-badge" />
   
