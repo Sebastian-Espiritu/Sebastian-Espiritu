@@ -3,33 +3,12 @@
 <h3 align="center">🎓 Estudiante de Ingeniería de Software</h3>
 
 <p align="center">
-🔐 Ciberseguridad • ☕ Java • 🐍 Python • 🌐 Flask
+• ☕ Java • 🐍 Python • 🌐 Flask
 </p>
 
 ---
 
-## 🚀 Proyecto Destacado
-
-### CryptoByte
-
-Sistema seguro de pagos QR con:
-
-✅ Firmas digitales RSA  
-✅ Verificación de integridad  
-✅ Protección Replay Attack  
-✅ Integración Java + Flask
-
----
-
-### Bob AI
-
-Auditor de seguridad capaz de:
-
-✅ Analizar evidencias JSON  
-✅ Detectar vulnerabilidades  
-✅ Generar reportes automáticos  
-✅ Recomendar remediaciones
-
+### Bob
 <p>
   <img src="https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -38,4 +17,4 @@ Auditor de seguridad capaz de:
 
 ---
 
-⭐ Actualmente trabajando en CryptoByte y Bob AI
+⭐
