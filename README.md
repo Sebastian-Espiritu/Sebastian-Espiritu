@@ -50,8 +50,8 @@ Python
 </td>
 
 <td align="center">
-  <img src="https://skillicons.dev/icons?i=js" /><br>
-JavaScript
+<img src="https://skillicons.dev/icons?i=js" /><br>
+<img src="https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge" />
 </td>
 </tr>
 </table>
