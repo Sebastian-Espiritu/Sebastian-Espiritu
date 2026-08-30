@@ -1,3 +1,4 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:7B2FF7,100:FF00FF&height=180&section=header&text=Sebastián&fontColor=ffffff>
 <h1 align="center">👋 Hola, soy Sebastián Espíritu</h1>
 
 <h3 align="center">🎓 Estudiante de Ingeniería de Software</h3>
