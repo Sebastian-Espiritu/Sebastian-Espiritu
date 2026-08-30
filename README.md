@@ -51,7 +51,7 @@ Python
 
 <td align="center">
 <img src="https://skillicons.dev/icons?i=js" /><br>
-<img src="https://img.shields.io/badge/JAVASCRIPT-yellow?style=for-the-badge" />
+<span style="color:#F7DF1E">JavaScript</span>
 </td>
 </tr>
 </table>
