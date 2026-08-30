@@ -3,11 +3,7 @@
 
 <h1 align="center">👋 Hola, soy Sebastián Espíritu</h1>
 
-<h3 align="center">🎓 Estudiante de Ingeniería de Software</h3>
-
-<p align="center">
-• ☕ Java • 🐍 Python • 🌐 Flask
-</p>
+<h3>🎓 Estudiante de Ingeniería de Software</h3>
 
 ---
 
