@@ -51,7 +51,7 @@ Python
 
 <td align="center">
 <img src="https://skillicons.dev/icons?i=js" /><br>
-<font color="#F7DF1E">JavaScript</font>
+<b>⚡ JavaScript</b>
 </td>
 </tr>
 </table>
