@@ -1,5 +1,6 @@
 <!--<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:7B2FF7,100:FF00FF&height=180&section=header&text=Sebasti%C3%A1n&fontColor=ffffff" />-->
 <img widtg=100% src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=ApplicationCryptoByte;Bob+AI;Java+%7C+Python+%7C+Flask" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=VT323&size=21&pause=1000&color=8B0000&center=true&vCenter=true&width=435&lines=%3E+Initializing...+;%3E+Access+Granted;%3E+Welcome+%3A%29" alt="Typing SVG" /></a>
 
 <h1 align="center">👋 Hola, soy Sebastián Espíritu</h1>
 
