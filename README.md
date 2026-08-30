@@ -21,5 +21,18 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,git,github"/>
+</p>
+
+<p align="center">
+  ☕ Java &nbsp;&nbsp;&nbsp;
+  🐍 Python &nbsp;&nbsp;&nbsp;
+  ⚡ JavaScript &nbsp;&nbsp;&nbsp;
+  🌐 HTML5 &nbsp;&nbsp;&nbsp;
+  🎨 CSS3 &nbsp;&nbsp;&nbsp;
+  🌿 Git &nbsp;&nbsp;&nbsp;
+  🐙 GitHub
+</p>
 
 ⭐
