@@ -1,5 +1,12 @@
-## Hi there 👋
+🎓 Estudiante de Ingeniería de Software
+ 
+🔐 Interesado en Ciberseguridad
+ 
+☕ Desarrollo con Java
+ 
+🐍 Desarrollo con Python
 
+🌐 Desarrollo de APIs con Flask
 <!--
 **Sebastian-Espiritu/Sebastian-Espiritu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
