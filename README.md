@@ -24,7 +24,19 @@
 
 ---
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,git,github"/>
+  <img src="https://skillicons.dev/icons?i=java"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=python"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=javascript"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=html"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=css"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=git"/>
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=github"/>
 </p>
 
 <p align="center">
