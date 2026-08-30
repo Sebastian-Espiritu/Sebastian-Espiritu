@@ -37,7 +37,7 @@
 </p>
 
 ---
-<table>
+<table border="0">
 <tr>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=java" /><br>
