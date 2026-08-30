@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1A1B27&theme=tokyonight&height=180&section=header&text=Sebasti%C3%A1n&fontColor=7AA2F7&fontSize=65&fontAlign=center&desc=%3C%20Full%20Stack%20Developer%20/%3E&descSize=20&descAlignY=65&descAlign=center" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:7B2FF7,100:FF00FF&height=180&section=header&text=Sebasti%C3%A1n&fontColor=ffffff" />
 <h1 align="center">👋 Hola, soy Sebastián Espíritu</h1>
 
 <h3 align="center">🎓 Estudiante de Ingeniería de Software</h3>
